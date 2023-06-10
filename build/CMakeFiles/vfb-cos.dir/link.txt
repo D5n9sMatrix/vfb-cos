@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvfb-cos.a CMakeFiles/vfb-cos.dir/vfb-cos.cpp.o
+/usr/bin/ranlib libvfb-cos.a

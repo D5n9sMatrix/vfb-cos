@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/vfb-net/vfb-cos/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/vfb-cos.dir/vfb-cos.cpp.o -c /home/denis/vfb-net/vfb-cos/vfb-cos.cpp",
+  "file": "/home/denis/vfb-net/vfb-cos/vfb-cos.cpp"
+}
+]
